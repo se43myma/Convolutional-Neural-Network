@@ -1,1 +1,1 @@
-# Convolutional-Neural-Network
+Implementing CNNs from scratch using python
